@@ -1,5 +1,5 @@
 //const host = "https://expense-tracker-app-knl1.onrender.com";
-const host = "http://ec2-51-20-31-55.eu-north-1.compute.amazonaws.com:3000";
+const host = "https://ckrhldi0i7.execute-api.eu-north-1.amazonaws.com/dev";
 export const setAvatarAPI = `${host}/api/auth/setAvatar`;
 export const registerAPI = `${host}/api/auth/register`;
 export const loginAPI = `${host}/api/auth/login`;
