@@ -19,7 +19,7 @@ connectDB();
 const allowedOrigins = [
   "https://main.d1sj7cd70hlter.amplifyapp.com",
   "https://expense-tracker-app-three-beryl.vercel.app",
-  "http://ec2-51-20-31-55.eu-north-1.compute.amazonaws.com:3000"// Add the local development origin
+  "https://expense-tracker-app-main-mwthkgu5b-suprithas-projects-eb55b552.vercel.app"// Add the local development origin
   // add more origins as needed
 ];
 
